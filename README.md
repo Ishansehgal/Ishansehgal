@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ishansehgal https://ishansehgal.github.io/
 - 👀 I’m interested in working on open source Robotics projects 
-- 🌱 I’m currently doing my Btech in ECE From Guru Nank Dev University 
 - 💞️ I’m looking to collaborate on Robotics projects
 - 📫 How to reach me https://www.linkedin.com/in/ishan-sehgal-548067232
 -
